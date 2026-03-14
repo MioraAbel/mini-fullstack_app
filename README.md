@@ -23,20 +23,25 @@ Backend
 - Liste des utilisateurs affichée dynamiquement
 
 ## Structure du projet
-FullStack-app/
+Test_Seomaniak_MioranirinaAbelRAKOTOARIMANANA_2025/
 │
-├─ frontend/             # code React
-│   ├─ src/
-│   ├─ public/
-│   ├─ package.json
-│   └─ README.md
+├─ FullStack-app/
+│ │
+│ ├─ frontend/             # code React
+│ │   ├─ src/
+│ │   ├─ public/
+│ │   ├─ package.json
+│ │   └─ README.md
+│ │
+│ ├─ backend/              # code Node.js + Express
+│ │   ├─ server.js
+│ │   ├─ package.json
+│ │
+│ ├─ README.md             # explication globale du projet
+│ ├─ .gitignore 
 │
-├─ backend/              # code Node.js + Express
-│   ├─ server.js
-│   ├─ package.json
-│
-├─ README.md             # explication globale du projet
-├─ .gitignore
+├─ Filming_Pitch_Projet.mp4
+├── README.txt
 └─ Captures/          # captures d'écran
 
 ## Installation
