@@ -83,3 +83,7 @@ Liste avec trois utilisateurs:
 
 Suppression d’un utilisateur (le second dans la liste):
 ![Suppression](Captures/Suppression1User.png)
+
+# Démonstration vidéo
+Voir la démonstration de l'application en action : 
+![Demo](Captures/App_Demo.mp4)
